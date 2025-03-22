@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Orbitron', sans-serif;
+  background-color: #fff1f2;
+  color: #4a4a4a;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
